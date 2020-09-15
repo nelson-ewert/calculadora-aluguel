@@ -1,2 +1,3 @@
 # calculadora-aluguel
-arquivos do modelo da calculadora do valor de aluguel em São Paulo
+Arquivos do modelo da calculadora do valor de aluguel em São Paulo.
+Dados coletados de apartamentos para alugar no Mercado Livre.
